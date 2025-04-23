@@ -10,8 +10,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/react.svg",
       level: "Expert",
       description: "Component-based UI development with React hooks and state management for dynamic web applications",
-      years: "5+ years",
-      projects: "40+ projects",
+      years: "2+ years",
+      projects: "10+ projects",
       accentColor: "#61DAFB"
     },
     {
@@ -19,8 +19,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/wordpress.svg",
       level: "Intermediate",
       description: "Building and customizing WordPress themes and plugins using React for dynamic content", 
-      years: "2+ years",
-      projects: "10+ projects",
+      years: "3+ years",
+      projects: "15+ projects",
       accentColor: "#21759B"
     },
     {
@@ -37,8 +37,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/javascript.svg",
       level: "Expert",
       description: "Core language for web development, including ES6+ features and asynchronous programming",
-      years: "5+ years",
-      projects: "50+ projects",
+      years: "2+ years",
+      projects: "10+ projects",
       accentColor: "#F7DF1E"
     },
     {
@@ -46,8 +46,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/next-dot-js.svg",
       level: "Expert",
       description: "Server-side rendering and static site generation with React framework",
-      years: "3+ years",
-      projects: "20+ projects",
+      years: "1+ years",
+      projects: "5+ projects",
       accentColor: "#000000"
     },
     {
@@ -55,8 +55,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/tailwindcss.svg",
       level: "Advanced",
       description: "Utility-first CSS framework for rapid UI development with React",
-      years: "3+ years",
-      projects: "15+ projects",
+      years: "1+ years",
+      projects: "5+ projects",
       accentColor: "#06B6D4"
     },
     {
@@ -73,8 +73,8 @@ const ReactSkillsSection = () => {
       icon: "https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.25.0/node-dot-js.svg",
       level: "Advanced",
       description: "Backend development with Node.js, building RESTful APIs and integrating with React",
-      years: "3+ years",
-      projects: "15+ projects",
+      years: "1+ years",
+      projects: "5+ projects",
       accentColor: "#8CC84B"
     },
     {
