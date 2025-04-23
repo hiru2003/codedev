@@ -16,10 +16,10 @@ const CEOFounderSection = () => {
       "Founder & CEO of Codedev",
     ],
     socialLinks: [
-      { name: "LinkedIn", url: "https://linkedin.com/", icon: "linkedin", color: "#0A66C2" },
-      { name: "Facebook", url: "https://facebook.com/", icon: "facebook", color: "#1877F2" },
-      { name: "WhatsApp", url: "https://wa.me/", icon: "whatsapp", color: "#25D366" },
-      { name: "Instagram", url: "https://instagram.com/", icon: "instagram", color: "#E4405F" }
+      { name: "LinkedIn", url: "https://linkedin.com/in/hirusha-kariyawasam-5b6335282", icon: "linkedin", color: "#0A66C2" },
+      { name: "Facebook", url: "https://www.facebook.com/hirusha.kariyawasam.37", icon: "facebook", color: "#1877F2" },
+      { name: "WhatsApp", url: "https://wa.me/+94767511529", icon: "whatsapp", color: "#25D366" },
+      { name: "Instagram", url: "https://www.instagram.com/hirusha_dx_/", icon: "instagram", color: "#E4405F" }
     ]
   };
 
@@ -439,7 +439,7 @@ const CEOFounderSection = () => {
               marginTop: '40px'
             }}>
               <a
-                href="#contact"
+                href="https://wa.me/+94767511529"
                 style={{
                   display: 'inline-flex',
                   alignItems: 'center',
